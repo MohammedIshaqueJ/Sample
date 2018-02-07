@@ -1,3 +1,0 @@
-I have created a file called Myfile
-
-status -s test
